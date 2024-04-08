@@ -14,5 +14,4 @@ This project showcases the beauty of our solar system through a captivating anim
 
 ### Preview
 
-![Solar System Animation](![Screenshot 2024-04-09 000741](https://github.com/AliGadashov/Simple-solar-system-animation/assets/118756769/d6c723bc-dc11-49cb-a793-6598e32a7320)
-)
+![Screenshot 2024-04-09 000741](https://github.com/AliGadashov/Simple-solar-system-animation/assets/118756769/d6c723bc-dc11-49cb-a793-6598e32a7320)
